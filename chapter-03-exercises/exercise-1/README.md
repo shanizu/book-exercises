@@ -23,4 +23,3 @@ Today for breakfast I ate a breakfast sandwich with the following ingredients:
   - egg
   - cheese
   - spinach
-  - onion
